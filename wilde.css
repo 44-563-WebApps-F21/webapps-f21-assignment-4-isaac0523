@@ -39,3 +39,18 @@ color: cadetblue;
 .pres{
 color: coral;
 }
+
+.table {
+    border: solid 10px;
+    border-color: brown;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+tr:nth-child(even) {
+    background-color: coral;
+}
+
+td{
+    padding: 32px 32px 32px 32px;
+}
